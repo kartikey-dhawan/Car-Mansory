@@ -1,4 +1,6 @@
 # Car Explorer
+### Live Demo
+👉 https://kartikey-dhawan.github.io/Car-Mansory/
 
 A simple, clean, and interactive web application to browse, search, filter, and sort car data.
 
@@ -17,20 +19,6 @@ A simple, clean, and interactive web application to browse, search, filter, and 
 - HTML5 (Semantic Structure)
 - CSS3 (Variables, Flexbox, Grid, Transitions)
 - Vanilla JavaScript (ES6+, DOM Manipulation, LocalStorage, Fetch API)
-
-## How to Run
-1. Open up your terminal or file explorer.
-2. Navigate to the project directory containing `index.html`.
-3. You can simply double-click `index.html` to open it in your browser.
-4. For the best experience (and to prevent any local CORS issues with fetch API), run a local static server. For example:
-   ```bash
-   # Using Python
-   python -m http.server 8000
-   
-   # Using Node.js
-   npx serve .
-   ```
-5. Open your browser to `http://localhost:8000`.
 
 ## API Used
 - **CarAPI**: https://carapi.dev/
